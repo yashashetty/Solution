@@ -1,0 +1,7 @@
+#Mon Apr 09 12:42:25 IST 2018
+base.0=/Users/mobilityiMac/Documents/Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd4588693578cd3a549ff829b5bcd9460886d943
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mobilityiMac/Documents/Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f00ec540560ea76f1b54e53963763f2a7f3aec4/classes.dex
+base.1=/Users/mobilityiMac/Documents/Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f00ec540560ea76f1b54e53963763f2a7f3aec4
+file.0=/Users/mobilityiMac/Documents/Solution/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd4588693578cd3a549ff829b5bcd9460886d943/classes.dex
